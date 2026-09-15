@@ -1,0 +1,24 @@
+# Environments
+.venv/
+.gradio/
+
+# Datasets - too large for git, cite sources in README instead
+data/
+data_combined/
+data_combined_v2/
+data_combined_v3/
+archive_split/
+
+# Old/intermediate checkpoints - keep only the final one, in model/
+checkpoints/
+checkpoints_v3/
+checkpoints_v4/
+
+# Runtime artifacts
+flagged/
+predictions.csv
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/

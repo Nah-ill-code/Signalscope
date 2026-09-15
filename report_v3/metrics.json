@@ -1,0 +1,18 @@
+{
+  "roc_auc": 0.9993609793727429,
+  "macro_f1": 0.9889346498190708,
+  "threshold": 0.5,
+  "accuracy_at_threshold": 0.9889346499280505,
+  "false_positive_rate_at_threshold": 0.011211429705327909,
+  "confusion_matrix": [
+    [
+      9966,
+      113
+    ],
+    [
+      110,
+      9964
+    ]
+  ],
+  "n_samples": 20153
+}
