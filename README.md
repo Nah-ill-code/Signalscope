@@ -62,8 +62,7 @@ signalscope/
 │   ├── batch_predict.py         # batch prediction over a folder
 │   ├── gradcam.py                # Grad-CAM heat-map generation
 │   ├── clean_dataset.py           # dataset cleaning utilities
-│   └── merge_datasets.py           # combine multiple source datasets
-├── split_dataset.py         # train/val/test split helper
+│   └── merge_datasets.py           # combine multiple source datasets       
 └── report/                  # metrics.json, confusion_matrix.png, roc_curve.png, sample explanations
 ```
 
