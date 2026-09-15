@@ -51,6 +51,8 @@ signalscope/
 ├── requirements.txt
 ├── model/
 │   └── best_model.pt       # trained checkpoint
+├── checkpoints_v4/
+│   └── best_model.pt       # trained checkpoint  that is used while running.
 ├── src/
 │   ├── dataset.py          # data loading + transforms
 │   ├── model.py             # backbone factory
