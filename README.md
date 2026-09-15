@@ -120,6 +120,11 @@ Trained on [CIFAKE](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-
 
 ## Team
 
-*[add your team name / members here]*
+Aryan suthar LEADER
+Laksh Mishra
+Mudra Shukl
+Arpi Suthar
+Vaishali Vagh
+Rudrapratap Singh Chundawat
 
 Built for Smart India Hackathon 2026.
