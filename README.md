@@ -6,6 +6,17 @@ You give it an image, it tells you whether the image looks real or AI-generated,
 
 ## YouTube DEMO Video : https://youtu.be/xbM80QnE1G4
 
+## PREREQUISITE 
+Your device must have gradio for this to run, If there's any error in terminal or powershell type (This is also mentioned later in this readme.): 
+
+```bash
+pip install -r requirements.txt
+```
+
+or to be on the safer side just type (in terminal):
+```bash
+pip install gradio
+```
 ## Why this exists
 
 AI-generated images are getting harder to spot with the naked eye, and most "deepfake detectors" are black boxes that just spit out a label with no reasoning. That's not good enough when the verdict actually matters — you need to be able to show *why* the model thinks something is fake, not just trust a number.
